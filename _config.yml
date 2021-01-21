@@ -39,6 +39,7 @@ plugins:
 
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# Site Author
 author:
   name: "Your Name"
   avatar: "/assets/images/bio-photo.jpg"
@@ -61,6 +62,7 @@ author:
       icons: "fab fa-fw fa-instagram"
       url: "https://instagram.com"
 
+# Site Footer
 footer:
   links:
     - label: "Twitter"
@@ -73,6 +75,7 @@ footer:
       icons: "fab fa-fw fa-instagram"
       url: "https://instagram.com"
 
+# Defaults
 defaults:
   # _pages
   - scope:
@@ -90,7 +93,8 @@ defaults:
       read_time: true
       share: true
 
-include: ["_pages"]
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
