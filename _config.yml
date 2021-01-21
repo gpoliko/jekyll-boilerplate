@@ -36,6 +36,15 @@ plugins:
 
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+defaults: 
+  # _pages
+  scope:
+    path: ""
+    type: pages
+  values:
+    layout: single
+    author_profile: true
+
 include: ['_pages']
 
 # Exclude from processing.
