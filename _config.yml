@@ -36,8 +36,7 @@ plugins:
 
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-include:
-  - _pages
+include: ['_pages']
 
 # Exclude from processing.
 # The following items will not be processed, by default.
