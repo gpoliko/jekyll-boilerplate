@@ -39,6 +39,40 @@ plugins:
 
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+author:
+  name: "Your Name"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person."
+  location: "Somewhere"
+  links:
+    - label: "Website"
+      icons: "fas fa-fw fa-link"
+      url: "/"
+    - label: "Github"
+      icons: "fab fa-fw fa-github"
+      url: "https://github.com"
+    - label: "LinkedIn"
+      icons: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com"
+    - label: "Twitter"
+      icons: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com"
+    - label: "Instagram"
+      icons: "fab fa-fw fa-instagram"
+      url: "https://instagram.com"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com"
+    - label: "GitHub"
+      icons: "fab fa-fw fa-github"
+      url: "https://github.com"
+    - label: "Instagram"
+      icons: "fab fa-fw fa-instagram"
+      url: "https://instagram.com"
+
 defaults:
   # _pages
   - scope:
@@ -46,7 +80,12 @@ defaults:
       type: pages
     values:
       layout: single
+  - scope:
+      path: ""
+      type: posts
+    values:
       author_profile: true
+      read_time: true
 
 include: ["_pages"]
 
