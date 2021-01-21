@@ -1,8 +1,17 @@
 ---
 layout: single
 title:  "Welcome to Jekyll!"
-date:   2021-01-21 16:00:27 +1300
+date:   2021-01-21 16:00:27 +1200
 categories: jekyll update
+header:
+  overlay_image: /assets/images/home_overlay.jpg
+  overlay_filter: 0.5
+  caption: "Photo credit: [**Fotis Fotopoulos**](https://unsplash.com/photos/DuHKoV44prg)"
+
+  # Call to Action
+  #actions:
+  #  - label: "More Info"
+  #    url: "https://unsplash.com/photos/DuHKoV44prg"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
