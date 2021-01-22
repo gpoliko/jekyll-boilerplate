@@ -1,9 +1,8 @@
 ---
-layout: single
 title:  "Welcome to Jekyll!"
 date:   2021-01-21 16:00:27 +1200
 categories: jekyll
-taxonomy: jekyll
+tags: jekyll
 permalink: /:categories/welcome-to-jekyll/
 excerpt: "This is an example post found in the `_posts` directory."
 header:

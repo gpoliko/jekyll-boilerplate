@@ -145,5 +145,6 @@ jekyll-archives:
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
 
