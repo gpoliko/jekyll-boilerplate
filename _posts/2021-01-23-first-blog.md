@@ -17,3 +17,5 @@ header:
 ---
 
 This is another blog post.
+
+Displaying how another post can be made for the website.
