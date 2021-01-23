@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Jekyll!"
 date: 2021-01-21 16:00:27 +1200
-last_modified_at: 2021-01-23 00:26:00 +1200
+# last_modified_at: 2021-01-23 00:26:00 +1200
 categories: jekyll
 tags: jekyll tutorial
 permalink: /:categories/welcome-to-jekyll/
