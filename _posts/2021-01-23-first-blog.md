@@ -7,7 +7,7 @@ tags: jekyll blog
 permalink: /:categories/first-post/
 excerpt: "This is another blog post"
 header:
-  overlay_image: /assets/images/home_overlay.jpg
+  overlay_image: /assets/images/hero_image.jpg
   overlay_filter: 0.7
   caption: "Photo credit: [**Fotis Fotopoulos**](https://unsplash.com/photos/DuHKoV44prg)"
 
