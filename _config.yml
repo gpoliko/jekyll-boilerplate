@@ -82,6 +82,7 @@ defaults:
       type: pages
     values:
       layout: single
+  # posts
   - scope:
       path: ""
       type: posts
