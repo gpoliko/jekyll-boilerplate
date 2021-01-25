@@ -35,7 +35,6 @@ brew install ruby
 :superhero_man: Windows super sidekick:
 
 https://rubyinstaller.org/
-<br/>
 
 ---
 ## Getting Started
