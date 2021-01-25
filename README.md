@@ -3,15 +3,16 @@ My Jekyll boilerplate for a simple blog site using the minimal-mistakes-jekyll t
 
 **NOTE BEFORE PROCEEDING:**
 > *I am still navigating **Jekyll**, the **Liquid** templating language and the **minimal-mistakes-jekyll** theme. It is highly likely that this boilerplate will be updated until I start making releases.*
+---
 ## Contents
-1. Getting Started
-2. Installation
-3. Adding blog posts
-4. Creating **categories**
-5. Creating **tags**
-6. Using **collections**
-7. Unleash your creativity
-
+1. [Getting Started](#getting-started)
+2. [Installation](#installation)
+3. [Blog posts](#blog-posts)
+4. [Categories](#categories)
+5. [Tags](#tags)
+6. [Collections](#collections)
+7. [Unleash your creativity](#unleash-your-creativity)
+---
 ## Getting Started
 This project requires Ruby to be installed on your system. Install Ruby via your terminal or command line. For Windows installation, you will need to download the **Ruby Installer**.
 
@@ -27,5 +28,27 @@ Windows installation:
 
 https://rubyinstaller.org/
 
+---
+## Installation
+
+---
+
+## Blog Posts
+
+---
+
+## Categories
+
+---
+
+## Tags
+
+---
+
+## Collections
+
+---
+
+## Unleash your creativity
 
 
