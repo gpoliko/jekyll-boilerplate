@@ -2,7 +2,7 @@
 My Jekyll boilerplate for a simple blog site using the minimal-mistakes-jekyll theme.
 
 **NOTE BEFORE PROCEEDING:**
-> *I am still navigating **Jekyll**, the **Liquid** templating language and the **minimal-mistakes-jekyll** theme. It is highly likely that this boilerplate will be updated over time.*
+> *I am still navigating **Jekyll**, the **Liquid** templating language and the **minimal-mistakes-jekyll** theme. It is highly likely that this boilerplate will be updated until I start making releases.*
 ## Contents
 1. Getting Started
 2. Installation
