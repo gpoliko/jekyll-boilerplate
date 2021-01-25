@@ -51,7 +51,7 @@ $ bundle exec jekyll serve
 ```
 <br/>
 
-:superhero_man: 1 super link to get involved: [http://localhost:4000](http://localhost:4000/)
+:superhero_man: 1 super link to save the day: [http://localhost:4000](http://localhost:4000/)
 <br/>
 <br/>
 
