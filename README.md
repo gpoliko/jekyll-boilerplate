@@ -1,4 +1,4 @@
-b# Jekyll Boilerplate
+# Jekyll Boilerplate
 My Jekyll boilerplate for a simple blog site which I will use to document my personal learning journey, utilizing the minimal-mistakes-jekyll theme.
 
 **NOTE BEFORE PROCEEDING:**
