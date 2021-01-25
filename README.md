@@ -14,15 +14,16 @@ My Jekyll boilerplate for a simple blog site using the minimal-mistakes-jekyll t
 
 ## Getting Started
 This project requires Ruby to be installed on your system. Install Ruby via your terminal or command line. For Windows installation, you will need to download the **Ruby Installer**.
-> Linux (Debian/Ubuntu) installation:
+
+Linux (Debian/Ubuntu) installation:
 
 `sudo apt-get install ruby-full`
 
-> macOS installation:
+macOS installation:
 
 `brew install ruby`
 
-> Windows installation:
+Windows installation:
 
 https://rubyinstaller.org/
 
