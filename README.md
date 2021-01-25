@@ -18,15 +18,15 @@ This project requires Ruby to be installed on your system. Install Ruby via your
 
 Don't worry, be super :superhero_man:
 
-:superhero_man: Linux (Debian/Ubuntu) command:
+:superhero_man: Linux (Debian/Ubuntu) super command:
 
 `sudo apt-get install ruby-full`
 
-:superhero_man: macOS command:
+:superhero_man: macOS super command:
 
 `brew install ruby`
 
-:superhero_man: Windows sidekick:
+:superhero_man: Windows super sidekick:
 
 https://rubyinstaller.org/
 
