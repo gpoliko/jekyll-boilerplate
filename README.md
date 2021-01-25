@@ -21,11 +21,13 @@ Don't worry, be super :superhero_man:
 :superhero_man: Linux (Debian/Ubuntu) super command:
 
 `sudo apt-get install ruby-full`
-
+<br/>
+<br/>
 :superhero_man: macOS super command:
 
 `brew install ruby`
-
+<br/>
+<br/>
 :superhero_man: Windows super sidekick:
 
 https://rubyinstaller.org/
