@@ -2,7 +2,7 @@
 My Jekyll boilerplate for a simple blog site using the minimal-mistakes-jekyll theme.
 
 **NOTE BEFORE PROCEEDING:**
-> *I am still navigating **Jekyll**, the **Liquid** templating language and the **minimal-mistakes-jekyll** theme. It is highly likely that this boilerplate will be updated until I start making releases.*
+> *I am still navigating **Jekyll**, the **Liquid** templating language and the **minimal-mistakes-jekyll** theme. It is highly likely that this boilerplate will be updated many times before I make a release.*
 ---
 ## Contents
 1. [Install Ruby](#install-ruby) (***Pre-requisite***)
