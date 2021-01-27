@@ -1,6 +1,6 @@
 ---
 title: Math Support
-date: 2018-07-16
+date: 2021-01-26
 tags: MathJax
 use_math: true
 ---
