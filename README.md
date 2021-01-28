@@ -37,25 +37,33 @@ https://rubyinstaller.org/
 ---
 ## Getting Started
 
-:superhero_man: 3 super commands to get this project:
+Click [**Use this template**](https://github.com/gpoliko/jekyll-boilerplate/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-```sh
-$ git clone https://github.com/gpoliko/jekyll-boilerplate
-$ cd jekyll-boilerplate
-$ bundle install
-```
-<br/>
+Features included in this boilerplate:
 
-:superhero_man: 1 super command to start:
+- Sample Home page
+- Sample about page.
+- Sample Contact page.
+- Sample 404 page.
+- Sample posts.
+- Sample navigation.
+- Sample sidebar with social links.
+- Sample footer with social links.
+- [Shielded Site](https://shielded.co.nz/) included in footer.
+- Site wide search.
 
-```sh
-$ bundle exec jekyll serve
-```
-<br/>
+Simply replace the sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
-:superhero_man: 1 super link to save the day: [http://localhost:4000](http://localhost:4000/)
-<br/>
-<br/>
+---
+
+## Troubleshooting
+
+If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+
+- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
+- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
+- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
 
 ---
 
