@@ -55,7 +55,7 @@ Features included in this boilerplate:
 - Sample navigation.
 - Sample sidebar with social links.
 - Sample footer with social links.
-- [Shielded Site](https://shielded.co.nz/) included in footer.
+- [Shielded Site](https://shielded.co.nz/) included (Relevant to New Zealand).
 - Site wide search.
 
 Simply replace the sample content with your own and begin adding your own pages and posts.
