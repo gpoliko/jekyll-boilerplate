@@ -66,7 +66,7 @@ Simply replace the sample content with your own and begin adding your own pages 
 
 - Quick overview on Ruby: [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
 - Jekyll Docs: [Docs](https://jekyllrb.com/)
-- Configuring the theme used in this boilerplate: [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes/docs/configuration/)
+- Configuring the theme used in this boilerplate: [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
 
 ---
 ## References
