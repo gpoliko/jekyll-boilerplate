@@ -1,10 +1,10 @@
 # Jekyll Boilerplate
-My Jekyll boilerplate for a simple blog site which I will use to document my personal learning journey, utilizing the minimal-mistakes-jekyll theme.
+My Jekyll boilerplate for a simple blog site for documenting my personal learning journey. Utilizing the minimal-mistakes-jekyll theme.
 
 <br/>
 
 **NOTE BEFORE PROCEEDING:**
-> *I am still navigating **Jekyll**, the **Liquid** templating language and the **minimal-mistakes-jekyll** theme, so this boilerplate will be incredibly basic. For more configuration info, please seee the [Useful info](#useful-info) section.*
+> *I am still navigating **Jekyll**, the **Liquid** templating language and the **minimal-mistakes-jekyll** theme, so this boilerplate will be incredibly basic. For more configuration info, please see the [Useful info](#useful-info) section.*
 
 ---
 ## Contents
