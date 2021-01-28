@@ -7,4 +7,5 @@ header:
   overlay_image: /assets/images/hero_image.jpg
   overlay_filter: 0.7
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+author_profile: true
 ---
