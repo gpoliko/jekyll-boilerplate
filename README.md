@@ -4,12 +4,13 @@ My Jekyll boilerplate for a simple blog site which I will use to document my per
 <br/>
 
 **NOTE BEFORE PROCEEDING:**
-> *I am still navigating **Jekyll**, the **Liquid** templating language and the **minimal-mistakes-jekyll** theme. It is highly likely that this boilerplate will be updated many times before I make a release.*
+> *I am still navigating **Jekyll**, the **Liquid** templating language and the **minimal-mistakes-jekyll** theme, so this boilerplate will be incredibly basic. For more configuration info, please seee the [Useful info](#useful-info) section.*
 
 ---
 ## Contents
 1. [Install Ruby](#install-ruby) (***Pre-requisite***)
 2. [Getting Started](#getting-started)
+3. [Useful info](#useful-info)
 ---
 ## Install Ruby
 This project requires Ruby to be installed on your system. Install Ruby via your terminal or command line. For Windows installation, you will need to download the **Ruby Installer**.
@@ -37,7 +38,8 @@ https://rubyinstaller.org/
 ---
 ## Getting Started
 
-Click [**Use this template**](https://github.com/gpoliko/jekyll-boilerplate/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+:superhero_man: Being super again, click here: [**Use this template**](https://github.com/gpoliko/jekyll-boilerplate/generate).
+This will allow you to create a repo using this boilerplate as a template.
 
 Features included in this boilerplate:
 
@@ -52,19 +54,23 @@ Features included in this boilerplate:
 - [Shielded Site](https://shielded.co.nz/) included in footer.
 - Site wide search.
 
-Simply replace the sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Simply replace the sample content with your own and begin adding your own pages and posts.
 
 ---
 
-## Troubleshooting
+## Useful Info
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
-
+- Quick overview on Ruby: [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
+- Jekyll Docs: [Docs](https://jekyllrb.com/)
+- Configuring the theme used in this boilerplate: [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes/docs/configuration/)
 
 ---
+## References
+
+[Jekyll](https://jekyllrb.com/)
+
+Theme by [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+
+[GitHub Pages](https://pages.github.com/)
 
 
