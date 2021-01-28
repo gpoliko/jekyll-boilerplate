@@ -6,6 +6,10 @@ My Jekyll boilerplate for a simple blog site for documenting my personal learnin
 **NOTE BEFORE PROCEEDING:**
 > *I am still navigating **Jekyll**, the **Liquid** templating language and the **minimal-mistakes-jekyll** theme, so this boilerplate will be incredibly basic. For more configuration info, please see the [Useful info](#useful-info) section.*
 
+<br/>
+
+Here is a [demo](https://gpoliko.github.io/jekyll-boilerplate/) of the site.
+
 ---
 ## Contents
 1. [Install Ruby](#install-ruby) (***Pre-requisite***)
