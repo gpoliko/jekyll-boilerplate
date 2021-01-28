@@ -5,3 +5,5 @@ permalink: /contact/
 ---
 
 Contact Page
+
+Add contact details here.
